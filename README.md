@@ -77,11 +77,7 @@ python3 main.py
 
 ## 📸 Screenshot
 
-ضع صورة للمشروع هنا لاحقًا.
-
-مثال:
-
-screenshots/calculator.png
+![Calculator](screenshots/calc.jpg)
 
 ---
 
