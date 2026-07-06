@@ -1,20 +1,42 @@
-# Python Calculator
+# 🧮 Python Calculator
 
-A simple calculator built with Python.
+Simple calculator built with Python.
 
-## Features
+---
 
-- Add
-- Subtract
-- Multiply
-- Divide
+## ✨ Features
 
-## Requirements
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🚫 Divide by zero protection
 
-- Git
+---
+
+## 📂 Project Structure
+
+```text
+python-calculator2/
+├── main.py
+├── calculator.py
+├── README.md
+├── requirements.txt
+├── install.sh
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+## ⚙️ Requirements
+
 - Python 3
+- Git
 
-## Installation (Termux)
+---
+
+## 📥 Installation (Termux)
 
 ```bash
 pkg update
@@ -31,10 +53,13 @@ chmod +x install.sh
 python main.py
 ```
 
-## Installation (Linux)
+---
+
+## 🐧 Installation (Linux)
 
 ```bash
 sudo apt update
+
 sudo apt install git python3 -y
 
 git clone https://github.com/aliabdalmonem/python-calculator2.git
@@ -48,20 +73,42 @@ chmod +x install.sh
 python3 main.py
 ```
 
-## Project Structure
+---
 
-```
-python-calculator2/
-│
-├── main.py
-├── calculator.py
-├── README.md
-├── requirements.txt
-├── install.sh
-├── LICENSE
-└── .gitignore
-```
+## 📸 Screenshot
 
-## Author
+ضع صورة للمشروع هنا لاحقًا.
+
+مثال:
+
+screenshots/calculator.png
+
+---
+
+## 🚀 Future Updates
+
+- [ ] Save history
+- [ ] Colorful interface
+- [ ] Scientific calculator
+- [ ] GUI version
+
+---
+
+## 🤝 Contributing
+
+If you find a bug or have an idea, feel free to open an Issue or submit a Pull Request.
+
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+## 👨‍💻 Author
 
 Ali Abdelmonem
+
+GitHub:
+https://github.com/aliabdalmonem
